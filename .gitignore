@@ -1,0 +1,7 @@
+data_augment/
+input/
+training/FOLD_*
+training/train_pred.csv
+training/submission.csv
+kaggle/
+archive.zip
