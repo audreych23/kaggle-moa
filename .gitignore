@@ -5,3 +5,6 @@ training/train_pred.csv
 training/submission.csv
 kaggle/
 archive.zip
+
+training/extracted_features.npz
+training/train_augmented.npz
